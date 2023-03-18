@@ -5,4 +5,13 @@ The dataset contains the 911 emergency calls which made throughout the time of y
 
 The project is developed on Jupyter Notebook using python libraries Numpy, Pandas with Matplotlib and Seaborn.
 
+This is a project that brings the following concepts: 
+* Loading the data
+* Google maps
+* Pivot table
+* Simple graphs
+* Percent change
+* Seaborn heatmap
+
+
 911 calls dataset available:https://www.kaggle.com/datasets/mchirico/montcoalert
