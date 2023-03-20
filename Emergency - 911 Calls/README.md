@@ -18,7 +18,8 @@ I have tried to utilise concepts of data science that I have learned to understa
 🔧 Pipeline:<br>
 * Loading the data
 * Data pre-processing
-* Data Analytics and Data Visualization
+* Data Analytics
+* Data Visualization
 
 🎲 Libraries:<br>
 * Numpy
