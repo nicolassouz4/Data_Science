@@ -23,7 +23,11 @@ I have tried to utilise concepts of data science that I have learned to understa
 
 🎲 Libraries:<br>
 * Numpy
+* Math
 * Matplotlib
 * Seaborn
+* IPython
+* Folium
+* Cufflinks
 
 Thanks! 
