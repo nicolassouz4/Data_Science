@@ -17,5 +17,3 @@
 Here you can find the notebooks of my projects in the area of Data Science and Machine Learning.
 
 * **[Emergency 911 Calls:](https://github.com/nicolassouz4/Data_Science/tree/main/Emergency%20-%20911%20Calls)** The objective of this project was to apply some concepts of data analysis in the <strong>Emergency Calls</strong> dataset, so I've went through the main steps of a data analysis. Being, data collection, pre-processing, analysis and visualization of the data. Also, I made some changes to the dataset to try to fix it with some python function, so I put some letters at the end of the values in the lat and lng columns, added some empty rows and columns.
-
-*
