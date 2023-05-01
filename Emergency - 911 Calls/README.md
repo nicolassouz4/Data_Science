@@ -19,7 +19,8 @@ I have tried to utilise concepts of data science that I have learned to understa
 * Loading the data
 * Pre-processing
 * Analytics
-* Visualization
+* Data Visualization
+* Machine Learning
 
 🎲 Libraries:<br>
 * Numpy
@@ -29,5 +30,4 @@ I have tried to utilise concepts of data science that I have learned to understa
 * IPython
 * Folium
 * Cufflinks
-
-Thanks! 
+* Sklearn
